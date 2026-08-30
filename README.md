@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="id" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portofolio | Kurnia Adela, S.Pd. - Administrative & Data Specialist</title>
+    <title>Portofolio | Kurnia Adela, S.Pd. - Administrative & Data </title>
     
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -156,7 +156,7 @@
                             Mengelola Data & Operasional dengan <span class="text-maroon underline decoration-earth-300 decoration-wavy decoration-2">Presisi</span> & Integritas.
                         </h1>
                         <p class="text-lg sm:text-xl text-earth-700 font-medium">
-                            Kurnia Adela, S.Pd. – Administrative Specialist, Data Analyst & Educator
+                            Kurnia Adela, S.Pd. – Administrative, Data Analyst & Educator
                         </p>
                     </div>
 
@@ -188,7 +188,7 @@
                     <div class="flex items-center gap-4 pt-4 border-t border-earth-200/80">
                         <span class="text-xs font-semibold uppercase tracking-wider text-earth-600">Terhubung:</span>
                         <div class="flex items-center gap-3">
-                            <a href="https://linkedin.com/in/kurniaadela" target="_blank" rel="noopener noreferrer" class="w-9 h-9 rounded-full bg-earth-100 hover:bg-maroon hover:text-white text-earth-800 flex items-center justify-center transition-all duration-300" aria-label="LinkedIn">
+                            <a href="https://linkedin.com/in/krniadlaa" target="_blank" rel="noopener noreferrer" class="w-9 h-9 rounded-full bg-earth-100 hover:bg-maroon hover:text-white text-earth-800 flex items-center justify-center transition-all duration-300" aria-label="LinkedIn">
                                 <i class="fa-brands fa-linkedin-in text-sm"></i>
                             </a>
                             <a href="mailto:krniadlaa@gmail.com" class="w-9 h-9 rounded-full bg-earth-100 hover:bg-maroon hover:text-white text-earth-800 flex items-center justify-center transition-all duration-300" aria-label="Email">
@@ -258,10 +258,10 @@
                         Menggabungkan Analisis Kuantitatif dengan Tata Kelola Operasional & Komunikasi Efektif.
                     </h3>
                     <p>
-                        Saya adalah seorang lulusan <strong class="text-maroon font-semibold">S1 Pendidikan Matematika</strong> dari Universitas Maritim Raja Ali Haji (UMRAH) dengan predikat *Honors* (IPK 3.66/4.00). Memiliki fondasi analitis kuantitatif yang kuat, pengolahan data terstruktur, serta keahlian penyusunan alur kerja administrasi.
+                        Saya adalah seorang lulusan <strong class="text-maroon font-semibold">S1 Pendidikan Matematika</strong> dari Universitas Maritim Raja Ali Haji (UMRAH) dengan predikat Honors (IPK 3.66/4.00). Memiliki fondasi analitis kuantitatif yang kuat, pengolahan data terstruktur, serta keahlian penyusunan alur kerja administrasi.
                     </p>
                     <p>
-                        Dengan pengalaman langsung sebagai Sekretaris Eksekutif Administrasi di lingkungan kemasyarakatan serta Asisten Pengajar & Instructional Designer di SMP Negeri 1 Tanjungpinang, saya terbiasa melakukan pemutakhiran data, pengarsipan digital 100% akurat, serta pengelolaan dinamika tim.
+                        Dengan pengalaman langsung sebagai Sekretaris  Administrasi di lingkungan kemasyarakatan serta Asisten Pengajar & Instructional Designer di SMP Negeri 1 Tanjungpinang, saya terbiasa melakukan pemutakhiran data, pengarsipan digital 100% akurat, serta pengelolaan dinamika tim.
                     </p>
                     <p>
                         Bagi saya, kerapian administrasi dan kejelasan arus informasi adalah kunci utama efisiensi operasional suatu organisasi.
