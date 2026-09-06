@@ -212,7 +212,7 @@
                         <div class="relative bg-earth-100 border border-earth-200 p-6 rounded-3xl shadow-hover-warm space-y-6">
                             <!-- Image / Avatar Container -->
                             <div class="relative h-96 rounded-2xl overflow-hidden bg-earth-200 group flex items-center justify-center">
-                                <img id="hero-profile-img" src="MEITU_20260730_103042047.jpg.jpeg" 
+                                <img id="hero-profile-img" src="foto-profile.jpg" 
                                      alt="Kurnia Adela, S.Pd." 
                                      class="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-500"
                                      onerror="this.onerror=null; this.src='MEITU_20260730_103042047.jpg.jpeg';">
